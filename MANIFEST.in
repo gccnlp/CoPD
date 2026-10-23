@@ -1,0 +1,4 @@
+include LICENSE NOTICE.md README.md requirements.txt
+recursive-include configs *.yaml
+recursive-include prompts *.jinja
+recursive-include scripts *.py *.sh
